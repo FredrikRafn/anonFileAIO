@@ -10,5 +10,4 @@ It takes use of the AnonFile API
 
 # Reference
 https://anonfile.com/docs/api
-
 Usage: https://api.anonfile.com/v2/file/{id}/info
